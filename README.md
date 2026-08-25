@@ -1,5 +1,3 @@
-# python-programming-lab
-Python programming lab exercises and practice programs completed during BTech CSE.
 # Python Programming Lab
 
 A collection of Python programming lab exercises and practice programs completed as part of my **BTech CSE** coursework.
